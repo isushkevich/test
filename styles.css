@@ -24,7 +24,7 @@ body {
 
 img {
     height: 800px;
-    /* object-fit: contain; */
+    margin: 0 auto;
 }
 
 .slide {
@@ -33,7 +33,7 @@ img {
 }
 
 .slick-track {
-    height: 800px;
+    /* height: 800px; */
 }
 
 .slick-prev:before,
